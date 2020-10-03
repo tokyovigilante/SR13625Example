@@ -1,0 +1,5 @@
+module CPipewire {
+  umbrella header "include/cpipewire.h"
+  link "pipewire-0.3"
+  export *
+}
